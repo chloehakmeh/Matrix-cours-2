@@ -1,0 +1,35 @@
+﻿head, h1, p, ul, h2, h3, h4{
+text-align: center;
+}
+
+h1{
+font-family: lobster;
+color:pink;
+font-weight: lighter;
+font-size: 50px;
+}
+
+h2, h4{
+font-family: lobster;
+color:purple;
+font-weight: lighter;
+font-size: 30px;
+}
+
+p, ul{
+font-weight: lighter;
+font-size: 20px;
+}
+
+a{
+font-family: lobster;
+color:pink;
+font-weight: lighter;
+font-size: 30px;
+}
+
+strong{
+font-family: lobster;
+color:pink;
+}
+
